@@ -7,4 +7,4 @@ some text
   * [ ] nothing
 * [x] another one
 
-<a href="google.com" href="_blank">Google</a>
+<a href="https://google.com" target="_blank">Google</a>

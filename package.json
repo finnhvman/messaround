@@ -1,0 +1,19 @@
+{
+  "name": "messaround",
+  "version": "1.0.0",
+  "description": "some text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finnhvman/messaround.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finnhvman/messaround/issues"
+  },
+  "homepage": "https://github.com/finnhvman/messaround#readme"
+}

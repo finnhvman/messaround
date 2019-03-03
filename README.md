@@ -16,4 +16,4 @@ some text
 
 ### this is h3
 
-[releases](/releases)
+[releases](./releases)
